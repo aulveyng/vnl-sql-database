@@ -316,7 +316,8 @@ Planned improvements include:
 
 - Predictive Analytics
 - Random Forest
-- Linear Regression
+- Logistics Regression
+- Gradient Boosting
 - Data Preparation
 - Model Evaluation
 
