@@ -5,7 +5,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-success)
 ![Python](https://img.shields.io/badge/Python-Machine%20Learning-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-OnGoing-yellow)
 
 ---
 
@@ -169,9 +169,9 @@ Historical match data from **Weeks 1 and 2** was used to train predictive models
 
 ## Models Implemented
 
-- Linear Regression
+- Logistic Regression
 - Random Forest
-- *(Add your third algorithm here)*
+- Gradient Boosting
 
 ### Machine Learning Pipeline
 
