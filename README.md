@@ -85,7 +85,6 @@ Official Match Statistics
 | Python | Machine Learning |
 | Pandas | Data Processing |
 | Scikit-learn | Predictive Modeling |
-| Jupyter Notebook | Model Development |
 
 ---
 
