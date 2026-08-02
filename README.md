@@ -116,7 +116,7 @@ The database was designed following relational database principles to eliminate 
 
 # 🗺️ Entity Relationship Diagram
 
-![ER Diagram](diagrams/er_diagram.png)
+![ER Diagram](VNl-Diagrams/er_diagram.png)
 
 ---
 
@@ -233,25 +233,25 @@ The platform currently contains:
 
 ## Database Schema
 
-![Database](screenshots/database_schema.png)
+![Database](VNL-Screenshots/database_schema.png)
 
 ---
 
 ## Current Team Standings
 
-![Standings](screenshots/standings.png)
+![Standings](VNL-Screenshots/standings.png)
 
 ---
 
 ## Sample Prediction Results
 
-![Predictions](screenshots/prediction_results.png)
+![Predictions](VNL-Screenshots/prediction_results.png)
 
 ---
 
 ## Machine Learning Workflow
 
-![ML Pipeline](diagrams/ml_pipeline.png)
+![ML Pipeline](VNL-Diagrams/ml_pipeline.png)
 
 ---
 
