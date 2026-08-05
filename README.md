@@ -116,7 +116,7 @@ The database was designed following relational database principles to eliminate 
 
 # 🗺️ Entity Relationship Diagram
 
-![ER Diagram](VNl-Diagrams/er_diagram.png)
+![ER Diagram](VNL-Diagrams/er_diagram.png)
 
 ---
 
