@@ -1,0 +1,37 @@
+schedule_id,team_a_name,team_b_name,predicted_winner_name,winner_probability
+73,Canada,Argentina,Canada,0.535
+74,Belgium,Cuba,Belgium,0.595
+75,Japan,Italy,Japan,0.72
+76,Germany,Slovenia,Slovenia,0.53
+77,Ukraine,Iran,Ukraine,0.65
+78,Bulgaria,Poland,Poland,0.615
+79,Serbia,Turkiye,Turkiye,0.66
+80,France,Brazil,Brazil,0.54
+81,United States of America,China,United States of America,0.65
+82,Belgium,Italy,Belgium,0.565
+83,Japan,Canada,Japan,0.77
+84,Iran,Germany,Germany,0.68
+85,Serbia,Ukraine,Ukraine,0.65
+86,China,France,China,0.51
+87,United States of America,Brazil,United States of America,0.555
+88,Cuba,Argentina,Argentina,0.62
+89,Japan,Belgium,Japan,0.625
+90,Turkiye,Ukraine,Ukraine,0.695
+91,Iran,Slovenia,Slovenia,0.59
+92,China,Bulgaria,Bulgaria,0.52
+93,Brazil,Poland,Poland,0.63
+94,Canada,Cuba,Canada,0.655
+95,Argentina,Italy,Italy,0.565
+96,Turkiye,Slovenia,Slovenia,0.635
+97,Serbia,Germany,Germany,0.695
+98,France,Poland,Poland,0.7
+99,United States of America,Bulgaria,Bulgaria,0.515
+100,Belgium,Canada,Belgium,0.65
+101,Cuba,Italy,Italy,0.615
+102,Japan,Argentina,Japan,0.71
+103,Turkiye,Iran,Turkiye,0.55
+104,Ukraine,Germany,Ukraine,0.54
+105,China,Brazil,China,0.6
+106,Serbia,Slovenia,Slovenia,0.665
+107,Bulgaria,France,Bulgaria,0.575
+108,United States of America,Poland,Poland,0.585

@@ -1,0 +1,15 @@
+Feature,Importance
+attack_efficiency_diff,0.11612272302693825
+serve_efficiency_diff,0.09531613548761113
+block_touches_diff,0.0815882049115858
+block_points_diff,0.07486460537610738
+attack_kills_diff,0.07002005472851551
+break_points_diff,0.06938235831351748
+assists_diff,0.0690725808889901
+digs_diff,0.06824640658117757
+points_diff,0.06683635449046643
+serve_errors_diff,0.06336864776053565
+reception_positive_diff,0.06072524432715987
+reception_perfect_diff,0.05708356097898378
+serve_aces_diff,0.05585139648748625
+win_rate_diff,0.05152172664092486
