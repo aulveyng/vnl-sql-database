@@ -12,8 +12,8 @@ This folder contains the Jupyter notebooks documenting the complete machine lear
 
 04 – Gradient Boosting
 
-05 – Model comparison
+05 – Week 3 Prediction
 
-06 – Week 3 prediction
+06 – Model Comparison
 
 Each notebook represents one stage of the machine learning pipeline and can be executed sequentially.
