@@ -227,34 +227,6 @@ The platform currently contains:
 - Prediction Storage
 - Historical Ranking Snapshots
 
----
-
-# 📷 Project Screenshots
-
-## Database Schema
-
-![Database](VNL-Screenshots/database_schema.png)
-
----
-
-## Current Team Standings
-
-![Standings](VNL-Screenshots/standings.png)
-
----
-
-## Sample Prediction Results
-
-![Predictions](VNL-Screenshots/prediction_results.png)
-
----
-
-## Machine Learning Workflow
-
-![ML Pipeline](VNL-Diagrams/ml_pipeline.png)
-
----
-
 # 📁 Repository Structure
 
 ```text
@@ -262,10 +234,9 @@ volleyball-nations-league-analytics
 │
 ├── database/
 ├── datasets/
-├── diagrams/
+├── VNL-Diagrams/
 ├── documentation/
-├── machine-learning/
-├── screenshots/
+├── machine_learning/
 ├── views/
 ├── README.md
 └── LICENSE
